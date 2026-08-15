@@ -1,6 +1,6 @@
 | Problem No. | Problem Name                           | Difficulty | Primary Topic | Subtopic                       | Secondary Topic   | Pattern | Rating | Revisit Count | Status     |
 | ----------- | -------------------------------------- | ---------: | ------------- | ------------------------------ | ----------------- | ------- | -----: | ------------: | ---------- |
-| 339A        | Helpful Maths                          |        800 | Arrays        | Sorting                        | Implementation    |         |        |             0 | Not Solved |
+| 339A        | Helpful Maths                          |        800 | Arrays        | Sorting                        | Implementation    |         |        |             0 | Solved     |
 | 580A        | Kefa and First Steps                   |        900 | Arrays        | Longest Non-Decreasing Segment | Traversal         |         |        |             0 | Not Solved |
 | 381A        | Sereja and Dima                        |       1100 | Arrays        | Two Ends                       | Greedy            |         |        |             0 | Not Solved |
 | 160A        | Twins                                  |        900 | Arrays        | Sorting                        | Greedy            |         |        |             0 | Not Solved |
